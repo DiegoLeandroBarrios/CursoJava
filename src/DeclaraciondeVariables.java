@@ -5,5 +5,6 @@ public class DeclaraciondeVariables {
         int Edad = 20;
         float Salario = 200000.99f;
         boolean Carnet = true;
+        System.out.println("");
     }
 }
